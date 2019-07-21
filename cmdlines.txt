@@ -1,0 +1,2 @@
+cd /c/Tools/MSYS2/home/jmarbach/workspace/qmk_firmware
+make ergodash/rev1:jumar
